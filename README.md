@@ -1,4 +1,4 @@
 
 # Memory Game
-# Live Site   **[gifty's memory game](https://giftys-memory-game.netlify.app/)**
+# Live Site   **[https://giftys-memory-game.netlify.app/](https://giftys-memory-game.netlify.app/)**
 *inspired by [net ninja](https://github.com/iamshaunjp)*
